@@ -1,0 +1,110 @@
+{
+  "client": [
+    {
+      "id": "0",
+      "nombre": "leo",
+      "apellido": "tamayo",
+      "correo": "leodev@gmail.com"
+    },
+    {
+      "id": "1",
+      "nombre": "edd",
+      "apellido": "ford",
+      "correo": "edd@slsl.com"
+    },
+    {
+      "id": "2",
+      "nombre": "tom",
+      "apellido": "tesla",
+      "correo": "tesla@grmg.com"
+    },
+    {
+      "id": "3",
+      "nombre": "caroline",
+      "apellido": "escobar",
+      "correo": "caro@ttt.com"
+    },
+    {
+      "id": "4",
+      "nombre": "roland",
+      "apellido": "gomez",
+      "correo": "roland@rrr.com"
+    },
+    {
+      "id": "5",
+      "nombre": "angie",
+      "apellido": "pinzon",
+      "correo": "angiepi@gmail.com"
+    },
+    {
+      "id": "6",
+      "nombre": "anny",
+      "apellido": "garcia",
+      "correo": "anny@gmail.com"
+    },
+    {
+      "id": "b409",
+      "nombre": "test",
+      "apellido": "ui",
+      "correo": "test@gmail.com"
+    },
+    {
+      "id": "dff9",
+      "nombre": "new",
+      "apellido": "test",
+      "correo": "newtest@ggg.com"
+    },
+    {
+      "id": "9fe3",
+      "nombre": "test",
+      "apellido": "test test",
+      "correo": "test@tes.com"
+    }
+  ],
+  "galpon": [
+    {
+      "id": "0",
+      "codGalpon": "gl001",
+      "cantPollo": "45",
+      "temperatura": "32",
+      "controlPlagas": "TRUE",
+      "aseo": "TRUE",
+      "estado": "TRUE"
+    },
+    {
+      "id": "1",
+      "codGalpon": "gl002",
+      "cantPollo": "50",
+      "temperatura": "30",
+      "controlPlagas": "TRUE",
+      "aseo": "FALSE",
+      "estado": "FALSE"
+    }
+  ],
+  "inventario": [
+    {
+      "id": "0",
+      "producto": "purina",
+      "descripcion": "concentrado de gran calidad para engorde de pollos",
+      "cantidad": "100",
+      "embalaje": "kg",
+      "valor": "120000"
+    },
+    {
+      "id": "1",
+      "producto": "desparacitante",
+      "descripcion": "pastillas para el control de los paracitos en los pollos",
+      "cantidad": "200",
+      "embalaje": "tabletas",
+      "valor": "400000"
+    },
+    {
+      "id": "2",
+      "producto": "cascarilla",
+      "descripcion": "absorbente de humedad",
+      "cantidad": "50",
+      "embalaje": "kg",
+      "valor": "70000"
+    }
+  ]
+}

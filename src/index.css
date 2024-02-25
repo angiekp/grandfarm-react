@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* CLASSNAMES COMPONENTES*/
+.navbar {
+  background-color: black;
+}
+.link {
+  text-decoration: none;
+  color: beige;
+}
+.fontPrimary {
+  color: #c2185c;
+}
+.fontSecondary {
+color: azure;
+}
+.imgCard {
+  height:auto;
+  width: auto;
+  background-color: aqua;
+  border-radius: 0%;
+}
+.home {
+  background-color: black;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.default {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.toggler {
+  background-color:grey;
+  color: beige;
+}
+.cardlogo {
+  border: none;
+}
